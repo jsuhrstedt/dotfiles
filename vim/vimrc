@@ -1,0 +1,15 @@
+"Pathogen (vim package manager)
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+
+"Use jk as <esc> alternative
+inoremap jk <Esc>
+
+"Use number lines
+set number
+
+"Solarized color scheme
+set background=dark
+colorscheme solarized
+
