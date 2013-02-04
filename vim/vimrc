@@ -13,3 +13,15 @@ set number
 set background=dark
 colorscheme solarized
 
+" Execute file being edited with <Shift> + e:
+map <buffer> <S-e> :w<CR>:!/usr/bin/env python % <CR>
+
+" Set a backup directory
+set backup
+set backupdir=~/tmp
+
+" No backup files
+"set nobackup
+
+" No swap files
+set noswapfile
