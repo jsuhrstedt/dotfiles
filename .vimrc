@@ -57,6 +57,10 @@ set nofoldenable
 set backupdir=~/.vimbackup
 set directory=~/.vimbackup
 
+" Create 80 character word wrap
+set formatoptions+=w
+set tw=80
+
 " NERDTree configuration
 let NERDTreeIgnore=['\.pyc$', '\.rbc$', '\~$']
 map <Leader>n :NERDTreeToggle<CR>
