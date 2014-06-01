@@ -11,6 +11,9 @@ filetype plugin indent on
 " set colorscheme
 colorscheme smyck
 
+"Use jk as <esc> alternative
+inoremap jk <Esc>
+
 " change leader from backspace to spacebar for easier reaching!
 let mapleader = " "
 
