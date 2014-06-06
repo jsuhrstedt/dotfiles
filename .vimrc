@@ -11,6 +11,9 @@ filetype plugin indent on
 " set colorscheme
 colorscheme smyck
 
+" use the mouse
+set mouse=a
+
 "Use jk as <esc> alternative
 inoremap jk <Esc>
 
@@ -31,8 +34,18 @@ set shiftwidth=2
 set softtabstop=2
 set expandtab
 
+" use smart indenting
+set smartindent
+
 " Show trailing spaces and highlight hard tabs
 set list listchars=tab:»·,trail:·
+
+" Highlight characters past 74 columns so we know when to manually line break
+" when programming
+"augroup vimrc_autocmds
+  "autocmd BufEnter * highlight OverLength ctermbg=darkgrey guibg=#592929
+  "autocmd BufEnter * match OverLength /\%74v.*/
+"augroup END
 
 " allow backspacing over everything in insert mode
 set backspace=indent,eol,start
@@ -248,3 +261,4 @@ endfunction
 let g:unite_force_overwrite_statusline = 0
 let g:vimfiler_force_overwrite_statusline = 0
 let g:vimshell_force_overwrite_statusline = 0
+
