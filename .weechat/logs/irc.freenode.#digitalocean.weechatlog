@@ -1,0 +1,55 @@
+2014-08-25 20:34:40	>	_jeremy_ has joined #digitalocean
+2014-08-25 20:34:40	--	Topic for #digitalocean is "Welcome to the unofficial DigitalOcean community IRC channel! | If you require immediate assistance, please open a ticket at https://cloud.digitalocean.com/support (login required). | Channel rules: coming soon"
+2014-08-25 20:34:40	--	Topic set by [joker] (joker@just.phear.com) on Fri, 01 Aug 2014 04:25:54
+2014-08-25 20:34:40	--	Channel #digitalocean: 617 nicks (3 ops, 18 voices, 596 normals)
+2014-08-25 20:34:40	--	PvNotice(ChanServ): Welcome to the unofficial DigitalOcean community IRC channel! | If you require immediate assistance, please open a ticket at https://cloud.digitalocean.com/support (login required). | Channel rules: http://irc.sammytheshark.com/rules
+2014-08-25 20:34:40	--	URL for #digitalocean: https://www.digitalocean.com/
+2014-08-25 20:34:42	--	Channel created on Sat, 03 Nov 2012 10:29:15
+2014-08-25 20:34:53	+Zachary_DuBois	Think what you want
+2014-08-25 20:34:55	manacit	do you honestly think they would open everyone's root password up on a restore?
+2014-08-25 20:36:07	+Zachary_DuBois	Create a droplet with SSH key configured > change the root password > shutdown + snapshot > restore from that snapshot > connect and check the /etc/shadow file
+2014-08-25 20:36:08	+phalacee	uh, they did on mine
+2014-08-25 20:36:11	<	mattmcclure has quit (Quit: Connection closed for inactivity)
+2014-08-25 20:36:13	+Zachary_DuBois	^
+2014-08-25 20:36:17	+phalacee	I created a droplet without SSH Keys
+2014-08-25 20:36:23	+phalacee	then set up ssh keys myself
+2014-08-25 20:36:27	+phalacee	took a snap shot
+2014-08-25 20:36:35	+phalacee	moved it from NYC2 to SGP1
+2014-08-25 20:36:41	+phalacee	and created a droplet of it
+2014-08-25 20:36:49	+phalacee	and had to redo all the key stuff again
+2014-08-25 20:36:50	manacit	your root isn't "wide open" then
+2014-08-25 20:37:06	+phalacee	because the system didn't keep my config
+2014-08-25 20:37:10	manacit	I never said they didn't change the config
+2014-08-25 20:37:17	manacit	but you're telling me that all of a sudden your root account is wide open
+2014-08-25 20:37:20	+Zachary_DuBois	If you tell DO to use an SSH key, they will unset the root password
+2014-08-25 20:37:23	+phalacee	well passwords are less secure than keys
+2014-08-25 20:37:26	+Zachary_DuBois	AKA, you have no password
+2014-08-25 20:37:29	<	_thumpba has quit (Remote host closed the connection)
+2014-08-25 20:37:29	+phalacee	so it is more open ...
+2014-08-25 20:37:31	manacit	yes, and you can't log in with it
+2014-08-25 20:37:35	manacit	that's the point
+2014-08-25 20:37:41	manacit	you *disable the root password*
+2014-08-25 20:37:53	+Zachary_DuBois	unset
+2014-08-25 20:37:58	+Zachary_DuBois	Not disable
+2014-08-25 20:38:03	+Zachary_DuBois	Stop changing my words
+2014-08-25 20:38:11	manacit	lol I'm arguing with you
+2014-08-25 20:38:13	manacit	not changing your words
+2014-08-25 20:38:17	+phalacee	he's trolling ... being a tool
+2014-08-25 20:38:22	+Zachary_DuBois	"[23:37:34]  <+Zachary_DuBois>	If you tell DO to use an SSH key, they will unset the root password"
+2014-08-25 20:38:59	manacit	how am I being a tool, I'm trying to be helpful and let you know that your restored instances aren't wide open to the internet
+2014-08-25 20:39:31	+RandyTheRaccoon	[DigitalOcean Community Questions] How much does snapshot costs ? - https://www.digitalocean.com/community/questions/how-much-does-snapshot-costs
+2014-08-25 20:39:36	+poedgirl	well this conversation looks like a lot of fun
+2014-08-25 20:39:36	+phalacee	we realise they aren't "wide open"
+2014-08-25 20:39:44	<	leprosys has quit (Quit: exit0)
+2014-08-25 20:39:46	+phalacee	they are no more open than a new droplet
+2014-08-25 20:39:48	<	_-_ has quit (Ping timeout: 255 seconds)
+2014-08-25 20:39:52	manacit	[23:34:47]  <+Zachary_DuBois>	 With them reseting the sshd_config to allow that, bam, your root is wide open
+2014-08-25 20:39:53	manacit	no
+2014-08-25 20:39:54	manacit	you don't
+2014-08-25 20:40:10	+phalacee	but they are a lot more open than the way they are before the snapshot is taken
+2014-08-25 20:40:18	+phalacee	manacit, you're confusing me with Zachary_DuBois
+2014-08-25 20:40:21	manacit	"we"
+2014-08-25 20:40:38	manacit	I'm confusing you for who you seem to be speaking with
+2014-08-25 20:40:39	+phalacee	his poor choice of words aside
+2014-08-25 20:40:45	manacit	you literally quoted what he said
+2014-08-25 20:40:47	--	irc: disconnected from server

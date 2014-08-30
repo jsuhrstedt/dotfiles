@@ -1,0 +1,369 @@
+2014-08-25 19:29:17		perl scripts loaded: beep, buffers
+2014-08-25 19:29:17	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 19:29:17	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 19:29:17	!!	Warning: /home/jeremy/.weechat/irc.conf, line 23: unknown option for section "look": hide_nickserv_pwd = on
+2014-08-25 19:29:17	!!	Warning: /home/jeremy/.weechat/irc.conf, line 27: unknown option for section "look": highlight_tags = "irc_privmsg,irc_notice"
+2014-08-25 19:29:17	!!	Warning: /home/jeremy/.weechat/irc.conf, line 29: unknown option for section "look": item_channel_modes_hide_key = off
+2014-08-25 19:29:17	!!	Warning: /home/jeremy/.weechat/irc.conf, line 41: unknown option for section "look": nick_prefix = ""
+2014-08-25 19:29:17	!!	Warning: /home/jeremy/.weechat/irc.conf, line 42: unknown option for section "look": nick_suffix = ""
+2014-08-25 19:29:17	!!	Warning: /home/jeremy/.weechat/irc.conf, line 65: unknown option for section "color": nick_prefix = green
+2014-08-25 19:29:17	!!	Warning: /home/jeremy/.weechat/irc.conf, line 67: unknown option for section "color": nick_suffix = green
+2014-08-25 19:29:17	!!	Warning: /home/jeremy/.weechat/irc.conf, line 80: unknown option for section "network": lag_disconnect = 0
+2014-08-25 19:29:17		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 19:29:54		fifo: pipe closed
+2014-08-25 19:29:54		perl: scripts unloaded
+2014-08-25 19:34:49		perl scripts loaded: beep, buffers
+2014-08-25 19:34:49	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 19:34:49	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 19:34:49		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 19:35:25		fifo: pipe closed
+2014-08-25 19:35:25		perl: scripts unloaded
+2014-08-25 19:44:51		perl scripts loaded: beep, buffers
+2014-08-25 19:44:51	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 19:44:51	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 19:44:51		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 19:45:22		fifo: pipe closed
+2014-08-25 19:45:22		perl: scripts unloaded
+2014-08-25 19:47:03		perl scripts loaded: beep, buffers
+2014-08-25 19:47:03	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 19:47:03	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 19:47:03		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 19:47:33		fifo: pipe closed
+2014-08-25 19:47:33		perl: scripts unloaded
+2014-08-25 19:48:35		perl scripts loaded: beep, buffers
+2014-08-25 19:48:35	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 19:48:35	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 19:48:35		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 19:49:09		fifo: pipe closed
+2014-08-25 19:49:09		perl: scripts unloaded
+2014-08-25 19:51:18		perl scripts loaded: beep, buffers
+2014-08-25 19:51:18	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 19:51:18	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 19:51:18		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 19:51:19		Option changed: irc.server.freenode.nicks = "mynick,mynick2,mynick3,mynick4,mynick5"  (default: (undefined))
+2014-08-25 19:51:22		Option changed: irc.server.freenode.nicks = "mynick,mynick2,mynick3,mynick4,mynick5"  (default: (undefined))
+2014-08-25 19:52:11	!!	Error with command "/query" (help on command: /help query)
+2014-08-25 19:52:15		fifo: pipe closed
+2014-08-25 19:52:15		perl: scripts unloaded
+2014-08-25 19:52:29		perl scripts loaded: beep, buffers
+2014-08-25 19:52:29	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 19:52:29	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 19:52:29		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 19:52:58		Option changed: irc.server.freenode.nicks = "_jeremy_"  (default: (undefined))
+2014-08-25 19:53:23		fifo: pipe closed
+2014-08-25 19:53:23		perl: scripts unloaded
+2014-08-25 19:53:25		perl scripts loaded: beep, buffers
+2014-08-25 19:53:25	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 19:53:25	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 19:53:25		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 19:53:55		fifo: pipe closed
+2014-08-25 19:53:55		perl: scripts unloaded
+2014-08-25 19:55:02		perl scripts loaded: beep, buffers
+2014-08-25 19:55:02	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 19:55:02	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 19:55:02		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 20:16:13		fifo: pipe closed
+2014-08-25 20:16:13		perl: scripts unloaded
+2014-08-25 20:16:16		perl scripts loaded: beep, buffers
+2014-08-25 20:16:16	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 20:16:16	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 20:16:16		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 20:22:24	!!	Error: unknown command "/p" (type /help for help)
+2014-08-25 20:30:42		[core]
+2014-08-25 20:30:42		  away     color    debug    help     key      mute     proxy    repeat   set      uptime   window 
+2014-08-25 20:30:42		  bar      command  eval     history  layout   plugin   quit     save     unset    version
+2014-08-25 20:30:42		  buffer   cursor   filter   input    mouse    print    reload   secure   upgrade  wait   
+2014-08-25 20:30:42		[ruby]
+2014-08-25 20:30:42		  ruby
+2014-08-25 20:30:42		[logger]
+2014-08-25 20:30:42		  logger
+2014-08-25 20:30:42		[relay]
+2014-08-25 20:30:42		  relay
+2014-08-25 20:30:42		[script]
+2014-08-25 20:30:42		  script
+2014-08-25 20:30:42		[exec]
+2014-08-25 20:30:42		  exec
+2014-08-25 20:30:42		[perl]
+2014-08-25 20:30:42		  buffers_detach  buffers_whitelist  perl
+2014-08-25 20:30:42		[python]
+2014-08-25 20:30:42		  python
+2014-08-25 20:30:42		[trigger]
+2014-08-25 20:30:42		  trigger
+2014-08-25 20:30:42		[guile]
+2014-08-25 20:30:42		  guile
+2014-08-25 20:30:42		[aspell]
+2014-08-25 20:30:42		  aspell
+2014-08-25 20:30:42		[irc]
+2014-08-25 20:30:42		  admin       cycle       halfop      kickban     mode        op          quote       sanick      squit       unquiet     who       
+2014-08-25 20:30:42		  allchan     dcc         ignore      kill        motd        oper        reconnect   sapart      stats       userhost    whois     
+2014-08-25 20:30:42		  allpv       dehalfop    info        links       msg         part        rehash      saquit      summon      users       whowas    
+2014-08-25 20:30:42		  allserv     deop        invite      list        names       ping        remove      server      time        version   
+2014-08-25 20:30:42		  ban         devoice     ison        lusers      nick        pong        restart     service     topic       voice     
+2014-08-25 20:30:42		  connect     die         join        map         notice      query       sajoin      servlist    trace       wallchops 
+2014-08-25 20:30:42		  ctcp        disconnect  kick        me          notify      quiet       samode      squery      unban       wallops   
+2014-08-25 20:30:42		[alias]
+2014-08-25 20:30:42		  AAWAY    AMSG     BYE      CL       IG       KB       MSGBUF   Q        SIGNOFF  UMODE    W        WII    
+2014-08-25 20:30:42		  alias    ANICK    C        CLOSE    J        LEAVE    MUB      REDRAW   T        unalias  WC       WW     
+2014-08-25 20:30:42		  AME      BEEP     CHAT     EXIT     K        M        N        SAY      UB       V        WI     
+2014-08-25 20:30:42		[charset]
+2014-08-25 20:30:42		  charset
+2014-08-25 20:30:42		[xfer]
+2014-08-25 20:30:42		  me  xfer
+2014-08-25 20:30:42		[lua]
+2014-08-25 20:30:42		  lua
+2014-08-25 20:34:04		fifo: pipe closed
+2014-08-25 20:34:04		perl: scripts unloaded
+2014-08-25 20:34:11		perl scripts loaded: beep, buffers
+2014-08-25 20:34:12	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 20:34:12	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 20:34:12		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 20:34:22	!!	irc: command "join" must be executed on connected irc server
+2014-08-25 20:40:47		fifo: pipe closed
+2014-08-25 20:40:47		perl: scripts unloaded
+2014-08-25 20:56:57		perl scripts loaded: beep, buffers
+2014-08-25 20:56:57	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 20:56:57	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 20:56:57		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 21:01:41		Option changed: weechat.color.chat_nick_colors = "red,green,brown,blue,magenta,cyan,white,lightred,lightgreen,yellow,lightblue,lightmagenta,lightcyan"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2014-08-25 21:03:04		fifo: pipe closed
+2014-08-25 21:03:04		perl: scripts unloaded
+2014-08-25 21:07:24		perl scripts loaded: beep, buffers
+2014-08-25 21:07:24	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 21:07:24	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 21:07:24		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 21:24:00		fifo: pipe closed
+2014-08-25 21:24:00		perl: scripts unloaded
+2014-08-25 21:24:15		perl scripts loaded: beep, buffers
+2014-08-25 21:24:15	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 21:24:15	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 21:24:15		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 21:27:26		fifo: pipe closed
+2014-08-25 21:27:26		perl: scripts unloaded
+2014-08-25 21:30:06		perl scripts loaded: beep, buffers
+2014-08-25 21:30:06	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 21:30:06	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 21:30:06		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 21:36:48		fifo: pipe closed
+2014-08-25 21:36:48		perl: scripts unloaded
+2014-08-25 21:36:59		perl scripts loaded: beep, buffers
+2014-08-25 21:36:59	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 21:36:59	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 21:36:59		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 21:47:30	!!	Error with command "/ignore -channels #archlinux * JOINS PARTS QUITS" (help on command: /help ignore)
+2014-08-25 21:47:41		[irc]  /ignore  list
+2014-08-25 21:47:41		                add [re:]<nick> [<server> [<channel>]]
+2014-08-25 21:47:41		                del <number>|-all
+2014-08-25 21:47:41		ignore nicks/hosts from servers or channels
+2014-08-25 21:47:41		     list: list all ignores
+2014-08-25 21:47:41		      add: add an ignore
+2014-08-25 21:47:41		     nick: nick or hostname (can be a POSIX extended regular expression if "re:" is given or a mask using "*" to replace one or more chars)
+2014-08-25 21:47:41		      del: delete an ignore
+2014-08-25 21:47:41		   number: number of ignore to delete (look at list to find it)
+2014-08-25 21:47:41		     -all: delete all ignores
+2014-08-25 21:47:41		   server: internal server name where ignore is working
+2014-08-25 21:47:41		  channel: channel name where ignore is working
+2014-08-25 21:47:41		Note: the regular expression can start with "(?-i)" to become case sensitive.
+2014-08-25 21:47:41		Examples:
+2014-08-25 21:47:41		  ignore nick "toto" everywhere:
+2014-08-25 21:47:41		    /ignore add toto
+2014-08-25 21:47:41		  ignore host "toto@domain.com" on freenode server:
+2014-08-25 21:47:41		    /ignore add toto@domain.com freenode
+2014-08-25 21:47:41		  ignore host "toto*@*.domain.com" on freenode/#weechat:
+2014-08-25 21:47:41		    /ignore add toto*@*.domain.com freenode #weechat
+2014-08-25 21:49:32		Option changed: irc.look.smart_filter = on
+2014-08-25 21:49:42		Filter "irc_smart" added:
+2014-08-25 21:49:42		  [irc_smart] buffer: * / tags: irc_smart_filter / regex: * 
+2014-08-25 21:50:39		fifo: pipe closed
+2014-08-25 21:50:39		perl: scripts unloaded
+2014-08-25 21:50:58		perl scripts loaded: beep, buffers
+2014-08-25 21:50:58	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 21:50:58	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 21:50:58		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 21:59:59		fifo: pipe closed
+2014-08-25 21:59:59		perl: scripts unloaded
+2014-08-25 22:00:17		perl scripts loaded: beep, buffers
+2014-08-25 22:00:17	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 22:00:17	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 22:00:17		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 22:05:31		fifo: pipe closed
+2014-08-25 22:05:31		perl: scripts unloaded
+2014-08-25 22:05:40		perl scripts loaded: beep, buffers
+2014-08-25 22:05:40	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 22:05:40	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 22:05:40		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 22:08:10		fifo: pipe closed
+2014-08-25 22:08:10		perl: scripts unloaded
+2014-08-25 22:24:27		perl scripts loaded: beep, buffers
+2014-08-25 22:24:27	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-25 22:24:27	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-25 22:24:27		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-25 22:26:43		fifo: pipe closed
+2014-08-25 22:26:43		perl: scripts unloaded
+2014-08-26 11:58:25		perl scripts loaded: beep, buffers
+2014-08-26 11:58:25	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-26 11:58:25	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-26 11:58:25		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-26 16:18:30		fifo: pipe closed
+2014-08-26 16:18:30		perl: scripts unloaded
+2014-08-26 18:49:29		perl scripts loaded: beep, buffers
+2014-08-26 18:49:29	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-26 18:49:29	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-26 18:49:29		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-26 21:08:44	!!	Error: unknown command "/qui" (type /help for help)
+2014-08-26 21:08:45		fifo: pipe closed
+2014-08-26 21:08:45		perl: scripts unloaded
+2014-08-26 21:08:58		perl scripts loaded: beep, buffers
+2014-08-26 21:08:58	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-26 21:08:58	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-26 21:08:58		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-26 21:16:56		fifo: pipe closed
+2014-08-26 21:16:56		perl: scripts unloaded
+2014-08-26 21:17:06		perl scripts loaded: beep, buffers
+2014-08-26 21:17:06	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-26 21:17:06	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-26 21:17:06		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-26 22:04:52		fifo: pipe closed
+2014-08-26 22:04:52		perl: scripts unloaded
+2014-08-26 22:06:17		perl scripts loaded: beep, buffers
+2014-08-26 22:06:17	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-26 22:06:17	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-26 22:06:17		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-26 22:09:33		fifo: pipe closed
+2014-08-26 22:09:33		perl: scripts unloaded
+2014-08-26 22:40:36		perl scripts loaded: beep, buffers
+2014-08-26 22:40:36	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-26 22:40:36	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-26 22:40:36		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-26 22:40:44	!!	irc: command "join" must be executed on connected irc server
+2014-08-26 22:41:33		fifo: pipe closed
+2014-08-26 22:41:33		perl: scripts unloaded
+2014-08-26 22:47:32		perl scripts loaded: beep, buffers
+2014-08-26 22:47:32	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-26 22:47:32	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-26 22:47:32		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-26 22:47:54		fifo: pipe closed
+2014-08-26 22:47:54		perl: scripts unloaded
+2014-08-26 22:49:49		perl scripts loaded: beep, buffers
+2014-08-26 22:49:49	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-26 22:49:49	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-26 22:49:49		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-26 22:50:34		fifo: pipe closed
+2014-08-26 22:50:34		perl: scripts unloaded
+2014-08-27 09:26:02		perl scripts loaded: beep, buffers
+2014-08-27 09:26:02	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 09:26:02	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 09:26:02		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 09:26:19		fifo: pipe closed
+2014-08-27 09:26:19		perl: scripts unloaded
+2014-08-27 09:26:20		perl scripts loaded: beep, buffers
+2014-08-27 09:26:20	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 09:26:20	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 09:26:20		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 09:40:42		fifo: pipe closed
+2014-08-27 09:40:42		perl: scripts unloaded
+2014-08-27 12:03:47		perl scripts loaded: beep, buffers
+2014-08-27 12:03:47	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 12:03:47	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 12:03:47		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 12:08:04		fifo: pipe closed
+2014-08-27 12:08:04		perl: scripts unloaded
+2014-08-27 18:28:12		perl scripts loaded: beep, buffers
+2014-08-27 18:28:12	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 18:28:12	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 18:28:12		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 18:29:10		fifo: pipe closed
+2014-08-27 18:29:10		perl: scripts unloaded
+2014-08-27 18:31:55		perl scripts loaded: beep, buffers
+2014-08-27 18:31:55	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 18:31:55	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 18:31:55		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 18:32:08		fifo: pipe closed
+2014-08-27 18:32:08		perl: scripts unloaded
+2014-08-27 18:32:15		perl scripts loaded: beep, buffers
+2014-08-27 18:32:15	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 18:32:15	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 18:32:15		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 18:32:42		fifo: pipe closed
+2014-08-27 18:32:42		perl: scripts unloaded
+2014-08-27 18:34:54		perl scripts loaded: beep, buffers
+2014-08-27 18:34:54	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 18:34:54	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 18:34:54		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 18:35:01		fifo: pipe closed
+2014-08-27 18:35:01		perl: scripts unloaded
+2014-08-27 18:44:09		perl scripts loaded: beep, buffers
+2014-08-27 18:44:09	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 18:44:09	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 18:44:09		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 18:44:49		fifo: pipe closed
+2014-08-27 18:44:49		perl: scripts unloaded
+2014-08-27 18:47:50		perl scripts loaded: beep, buffers
+2014-08-27 18:47:50	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 18:47:50	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 18:47:50		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 18:55:05		fifo: pipe closed
+2014-08-27 18:55:05		perl: scripts unloaded
+2014-08-27 18:57:19		perl scripts loaded: beep, buffers
+2014-08-27 18:57:20	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 18:57:20	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 18:57:20		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 18:58:15		fifo: pipe closed
+2014-08-27 18:58:15		perl: scripts unloaded
+2014-08-27 19:10:05		perl scripts loaded: beep, buffers
+2014-08-27 19:10:05	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 19:10:05	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 19:10:05		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 19:31:34		fifo: pipe closed
+2014-08-27 19:31:34		perl: scripts unloaded
+2014-08-27 19:46:27		perl scripts loaded: beep, buffers
+2014-08-27 19:46:27	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 19:46:27	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 19:46:27		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 20:04:06		fifo: pipe closed
+2014-08-27 20:04:06		perl: scripts unloaded
+2014-08-27 20:28:26		perl scripts loaded: beep, buffers
+2014-08-27 20:28:26	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 20:28:26	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 20:28:26		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 21:54:57		fifo: pipe closed
+2014-08-27 21:54:57		perl: scripts unloaded
+2014-08-27 21:55:12		perl scripts loaded: beep, buffers
+2014-08-27 21:55:12	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-27 21:55:12	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-27 21:55:12		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-27 22:21:21		fifo: pipe closed
+2014-08-27 22:21:21		perl: scripts unloaded
+2014-08-28 09:06:51		perl scripts loaded: beep, buffers
+2014-08-28 09:06:51	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-28 09:06:51	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-28 09:06:51		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-28 09:07:04		fifo: pipe closed
+2014-08-28 09:07:04		perl: scripts unloaded
+2014-08-28 09:07:16		perl scripts loaded: beep, buffers
+2014-08-28 09:07:16	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-28 09:07:16	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-28 09:07:16		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-28 09:26:29		fifo: pipe closed
+2014-08-28 09:26:30		perl: scripts unloaded
+2014-08-28 19:02:12		perl scripts loaded: beep, buffers
+2014-08-28 19:02:12	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-28 19:02:12	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-28 19:02:12		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-29 09:20:55		perl scripts loaded: beep, buffers
+2014-08-29 09:20:55		fifo: removing old fifo pipe "/home/jeremy/.weechat/weechat_fifo_28857"
+2014-08-29 09:20:56	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-29 09:20:56	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-29 09:20:56		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-29 09:33:49	!!	Error: unknown command "/uqit" (type /help for help)
+2014-08-29 09:33:51		fifo: pipe closed
+2014-08-29 09:33:51		perl: scripts unloaded
+2014-08-29 21:21:16		perl scripts loaded: beep, buffers
+2014-08-29 21:21:16	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-29 21:21:16	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-29 21:21:16		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-08-29 22:58:38		fifo: pipe closed
+2014-08-29 22:58:38		perl: scripts unloaded
+2014-08-30 08:58:50		perl scripts loaded: beep, buffers
+2014-08-30 08:58:50	!!	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-08-30 08:58:50	!!	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-08-30 08:58:50		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
